@@ -138,7 +138,7 @@ cd game/
 npm install
 npm run dev
 ```
-🔗 Deploy: [Acesse aqui](https://saude-em-acao-ten.vercel.app/)
+🔗 Deploy: [Acesse aqui](https://buscasusma-lllb9440s-pytwers-projects.vercel.app/)
 
 ---
 
