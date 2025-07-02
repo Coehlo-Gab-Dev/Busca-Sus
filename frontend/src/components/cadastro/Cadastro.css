@@ -1,0 +1,242 @@
+.cadastro-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+  font-family:"Inter", sans-serif;
+}
+
+.cadastro-box {
+  display: flex;
+  width: 1006px;
+  height: 556px;
+  padding: 2rem;
+  background-color: #ffffff;
+  color: #002c69;
+  text-align: center;
+  border-radius: 29px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  position: relative;
+  z-index: 1001;
+  gap: 90px
+}
+
+.cadastro-header {
+   font-family: "Inter", sans-serif;
+  font-weight: 800; 
+  font-size: 30px;
+  color: #000000;
+}
+
+.cadastro-logo {
+  width: 398px; /* Ajustado para tamanho aproximado do Figma */
+  height: 398px;
+  margin: 3rem 0 1.5rem 0;
+}
+
+.cadastro-label {
+  display: block;
+  text-align: left;
+  margin-left: 10%;
+  font-size: 0.9rem;
+  color: #333;
+  margin-bottom: 0.2rem;
+}
+
+.cadastro-input {
+  width: 327px;
+  height: 45px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 5px;
+  font-family: "Inter", sans-serif;
+  font-size: 14px;
+}
+
+.password-container {
+  position: relative;
+  display: inline-block;
+  width: auto;
+}
+
+.toggle-password {
+  position: absolute;
+  right: 10%;
+  top: 50%;
+  transform: translateY(-50%);
+  cursor: pointer;
+  color: #002c69;
+}
+
+.cadastro-button {
+  padding: 0.75rem 2rem;
+  background-color: #689CFF;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 1rem;
+  width: 80%;
+  font-family:  "Inter", sans-serif;
+  font-size: 1rem;
+
+}
+
+.error {
+  color: red;
+  margin-top: 0.5rem;
+}
+
+.cadastro-link {
+  margin-top: 1rem;
+  font-size: 1 rem;
+  color: #000000;
+  
+}
+
+.cadastro-link a {
+  color: #000000;
+  text-decoration: none;
+}
+
+.cadastro-link a:hover {
+  text-decoration: underline;
+}
+
+.formulario-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 398px;
+  height: 435px;
+  gap: 5px;
+  margin-top: 30px;
+}
+
+.back-button {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  background: none;
+  border: none;
+  font-size: 24px;
+  cursor: pointer;
+  color: #000;
+  padding: 5px;
+}
+
+@media (max-width: 768px) {
+  .cadastro-container {
+    min-height: 100vh;
+    padding: 20px 0;
+  }
+
+  .cadastro-box {
+    flex-direction: column;
+    width: 50vw;
+    min-width: 0;
+    height: auto;
+    margin: 40px auto;
+    padding: 20px 10px;
+    gap: 30px;
+  }
+
+  .cadastro-logo {
+    width: 100px;
+    height: 100px;
+    margin: 0 auto 20px auto;
+    display: block;
+  }
+
+  .formulario-container {
+    width: 100%;
+    height: auto;
+    margin: 0;
+    padding: 0 10px;
+    gap: 15px;
+  }
+
+  .cadastro-header {
+    font-size: 22px;
+    text-align: center;
+  }
+
+  .cadastro-input,
+  .cadastro-button {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .forgot-password {
+    font-size: 11px;
+    position: relative;
+    right: 0;
+    bottom: 0;
+    padding-top: 5px;
+    text-align: right;
+  }
+  .password-container {
+    width: 100%;
+    min-width: 0;
+    display: flex;
+    align-items: center;
+  }
+}
+@media (max-width: 480px) {
+  .cadastro-container {
+    min-height: 100vh;
+    padding: 20px 0;
+  }
+
+  .cadastro-box {
+    flex-direction: column;
+    width: 70vw;
+    min-width: 0;
+    height: auto;
+    margin: 40px auto;
+    padding: 20px 10px;
+    gap: 10px;
+  }
+
+  .cadastro-logo {
+    width: 100px;
+    height: 100px;
+    margin: 0 auto 10px auto;
+    display: block;
+  }
+
+  .form-container {
+    width: 100%;
+    height: auto;
+    margin: 0;
+    padding: 0 10px;
+    gap: 15px;
+  }
+
+  .login-header {
+    font-size: 22px;
+    text-align: center;
+  }
+
+  .cadastro-input,
+  .cadastro-button {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .forgot-password {
+    font-size: 11px;
+    position: relative;
+    right: 0;
+    bottom: 0;
+    padding-top: 5px;
+    text-align: right;
+  }
+}

@@ -1,0 +1,14 @@
+
+Dotenv
+.env
+
+
+IDE files
+.idea/
+.DS_Store
+
+# Ignorar a pasta de arquivos teste  do frontend
+/public
+
+MongoDB Playground
+*.mongodb 

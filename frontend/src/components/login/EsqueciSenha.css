@@ -1,0 +1,54 @@
+/* Estilos específicos para EsqueciSenha */
+.esqueci-senha-title {
+  font-family: "Inter", sans-serif;
+  font-weight: 800;
+  font-size: 30px;
+  color: #000000;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.esqueci-senha-close-button {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  background: none;
+  border: none;
+  font-size: 24px;
+  cursor: pointer;
+  color: #000;
+  padding: 5px;
+  z-index: 10;
+}
+
+.success-message {
+  color: green;
+  text-align: center;
+  font-size: 14px;
+  margin: 10px 0;
+}
+
+/* Ajustes de responsividade específicos para EsqueciSenha */
+@media (max-width: 480px) {
+  .esqueci-senha-title {
+    font-size: 24px;
+  }
+
+  .esqueci-senha-close-button {
+    top: 15px;
+    left: 15px;
+    font-size: 20px;
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .login-logo {
+    max-width: 180px;
+    padding: 10px 0;
+  }
+}
