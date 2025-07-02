@@ -99,7 +99,7 @@ npm install
 npm run dev
 ```
 
-🔗 Deploy: [Acesse aqui](https://buscasusma-8mp4fznl4-pytwers-projects.vercel.app/)
+🔗 Deploy: [Acesse aqui](https://buscasusma-e9idvek5v-pytwers-projects.vercel.app/)
 
 ---
 
@@ -138,6 +138,7 @@ cd game/
 npm install
 npm run dev
 ```
+🔗 Deploy: [Acesse aqui](https://saude-em-acao-ten.vercel.app/)
 
 ---
 
@@ -179,13 +180,13 @@ npm run dev
 🔗 [GitHub](https://github.com/Coehlo-Gab-Dev) | 🌐 [LinkedIn](www.linkedin.com/in/gabriel-coelho-7184a32a3)
 
 * **Hélvila Freitas**
-  🔗 [GitHub](https://github.com/Coehlo-Gab-Dev) | 🌐 [LinkedIn](https://www.linkedin.com/in/h%C3%A9vila-freitas-36344b203)
+| 🌐 [LinkedIn](https://www.linkedin.com/in/h%C3%A9vila-freitas-36344b203)
 
 * **Rejane Aguilar**
-  🔗 [GitHub](https://github.com/rejaneaguiar) | 🌐 [LinkedIn](https://www.linkedin.com/in/rejane-aguiar-60447b304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+🔗 [GitHub](https://github.com/rejaneaguiar) | 🌐 [LinkedIn](https://www.linkedin.com/in/rejane-aguiar-60447b304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 * **Marcio Danilo**
-
+🌐 [LinkedIn](https://www.linkedin.com/in/m%C3%A1rcio-d-563659280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
 
