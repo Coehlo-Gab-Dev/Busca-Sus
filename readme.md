@@ -99,7 +99,7 @@ npm install
 npm run dev
 ```
 
-🔗 Deploy: [Acesse aqui](https://buscasusma-e9idvek5v-pytwers-projects.vercel.app/)
+🔗 Deploy: [Acesse aqui](https://buscasusma-7pgtj8a5d-pytwers-projects.vercel.app)
 
 ---
 
@@ -138,7 +138,7 @@ cd game/
 npm install
 npm run dev
 ```
-🔗 Deploy: [Acesse aqui](https://buscasusma-lllb9440s-pytwers-projects.vercel.app/)
+🔗 Deploy: [Acesse aqui](https://saude-em-acao-ten.vercel.app/)
 
 ---
 
