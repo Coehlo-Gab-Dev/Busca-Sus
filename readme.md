@@ -1,4 +1,3 @@
-```markdown
 # 🧩 Saúde em Ação — Projeto Fullstack
 
 > 🎓 Este projeto foi desenvolvido como parte do **Desafio 5 do Trilhas 2B**, com foco em aplicar conceitos de desenvolvimento web moderno, autenticação, integração com APIs e experiência do usuário.
@@ -226,9 +225,19 @@ npm run dev
 * **Madu Azevedo**
   🌐 [LinkedIn](https://www.linkedin.com/in/madu-azevedo-210058163/)
 
+  * **Glenda Tereza**
+  🌐 [LinkedIn](https://www.linkedin.com/in/glenda-tereza-005b4b1a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+  
+  * **Daniela Costa**
+  🌐 [LinkedIn](https://br.linkedin.com/in/daniela-costa-silva-3a8808238)
+
+
 * **Gabriela Sousa**
   🌐 [LinkedIn](http://www.linkedin.com/in/gabriella-sousa-8bb8a2349)
 
+
+* **Yasmim Agatha**
+  🌐 [LinkedIn](https://www.linkedin.com/in/yasmim-campelo-705a48372?trk=contact-info)
 
 ## Protótipo no Figma
 * **Confira o layout do projeto no Figma:**
